@@ -1,0 +1,65 @@
+header {
+  background-color: rgb(70, 19, 211);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+header h1 {
+  margin: 0;
+  font-size: 2.5em;
+}
+.topnav {
+  background-color: rgb(70, 19, 211);
+  overflow: hidden;
+}
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  margin-left: 4em;
+  padding: 24px 26px;
+  text-decoration: dashed;
+  font-size: 18px;
+}
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.topnav a.active {
+  background-color: #04AA6D;
+  color: white;
+}
+.topnav2 {
+  background-color: rgb(70, 19, 211);
+  overflow: hidden;
+}
+.topnav2 a {
+  color: #f2f2f2;
+  text-align: center;
+  margin-left: 4em;
+  padding: 24px 26px;
+  text-decoration: dashed;
+  font-size: 18px;
+
+}
+footer{
+  text-align: center;
+    padding: 10px;
+    background-color:chocolate;
+    color: white;
+
+}
+.ok{
+  background: linear-gradient(to right, rgb(187, 0, 255) , blue , rgb(21, 0, 255));
+  padding: 20px;
+}
+.ok2{
+  background: linear-gradient(to right,  rgb(187, 0, 255) , blue , rgb(21, 0, 255));
+  padding: 20px;
+}
+aside{
+  background-color: #962eb6;
+  padding: 1em;
+  float: right;
+  margin:4em ;
+}
